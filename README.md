@@ -1,20 +1,6 @@
 # cosmicfears.github.io 
 <!DOCTYPE html>
-<html lang="en">
+<h1>Halo semua nya </h1>
 <head>
- <meta charset="UTF -8">
-<meta name="viewport"
- content="width, initialscale=1.0">
-<title>Theme Switcher</title>
-<link rel="stylesheet"
- href="style.css">
+ <p>Ini web uji coba ges harap jangan di hujat dulu wkwkkwkw </p>
 </head>
-<body>
-<div class="theme-swicht-wrapper">
-<label class="theme-switch"-for="checkbox"/>
- <div clas="slider round"></div>
-</label>
-</div>
-<script src="script.js"></script>
-</body>
-</html>
