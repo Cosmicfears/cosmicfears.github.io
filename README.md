@@ -10,8 +10,8 @@
  href="style.css">
 </head>
 <body>
-<div class="Theme-swicht-wrapper">
-<label class="Theme-swicht"-for="checkbox"/>
+<div class="theme-swicht-wrapper">
+<label class="theme-swicht"-for="checkbox"/>
  <div clas="slider round"></div>
 </label>
 </div>
