@@ -5,7 +5,7 @@
  <meta charset="UTF -8">
 <meta name="viewport"
  content="width, initialscale=1.0"
-<title>Theme Switcher</title>
+<title>theme switcher</title>
 <link rel="stylesheet"
  href="style.css">
 </head>
