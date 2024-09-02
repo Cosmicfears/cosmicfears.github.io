@@ -9,5 +9,6 @@
 </head>
 
 <div>
- <input type="search">
+ <input type="url">
+ <input typer="submit">
 </div>
