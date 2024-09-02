@@ -10,7 +10,7 @@
 
 <div>
  <input type="url">
- <input typer="submit">
+ 
 <h2> Alasan Gw mau jadi ninja</h2>
  <ol>
   <li>mau nangkap rusdi</li>
