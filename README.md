@@ -7,3 +7,7 @@
   <br>Jika ada sesuatu bilang coek </p>
 </i>
 </head>
+
+<div>
+ <input type="search">
+</div>
