@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="theme-swicht-wrapper">
-<label class="theme-swicht"-for="checkbox"/>
+<label class="theme-switch"-for="checkbox"/>
  <div clas="slider round"></div>
 </label>
 </div>
