@@ -8,7 +8,7 @@
 <title>Theme Switcher</title>
 <link rel="stylesheet"
  href="style.css">
-<head>
+</head>
 <body>
 <div class="Theme-swicht-wrapper">
 <label class="Theme-swicht"-for="checkbox"/>
